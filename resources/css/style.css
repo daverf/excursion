@@ -1,6 +1,9 @@
-body {background-color: black}
+body {background-color: black;
+  font-family: Verdana;
+text-align: center;}
 
-h1 {font-family: Verdana;
-font-size: 50px;
-text-align: center;
+h1 {font-size: 50px;
 color: white;}
+
+.downloadlink {color: Aquamarine;
+font-size: 16px;}
